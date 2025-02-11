@@ -1,0 +1,3 @@
+**Steve** é uma das duas skins padrão que está disponível para ser usado por todos os jogadores de Minecraft. A skin é a aparência visual do modelo de avatar que o jogador controla no mundo do jogo, podendo ser customizada e substituída por outras sem que isso afete a estrutura do jogo. Todos os *NPCs* hostis zumbis em Minecraft parecem vestir as mesmas roupas que Steve, mas nenhuma explicação oficial foi dada para isso.
+
+**Steve** foi destaque em outros jogos eletrônicos fora de Minecraft. Ele aparece como um personagem jogável exclusivo na versão de PC de *Super Meat Boy com o nome* "*Mr. Minecraft*".[2] A cabeça quadrada de **Steve** aparece como um cosmético desbloqueável em **Borderlands** 2 e **Hybrid**.
